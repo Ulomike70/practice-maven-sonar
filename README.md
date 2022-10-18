@@ -9,9 +9,9 @@
 
 ## Configure Nexus Repository 
 
-Series of tutorial code snippets for use
+Series of tutorial code snippets for for use
 #Maven publish tutorial steps
-Publishing artifact to Nexus snapshot and release repo using maven.
+Publishing artifact to Nexus snapshot  release repo using maven.
 
 1. Create a snapshot repo using nexus, or use default coming in out of the box. DEFAULT 
 2. Create a release repo using nexus, or use default coming out of the box. DEFAULT
